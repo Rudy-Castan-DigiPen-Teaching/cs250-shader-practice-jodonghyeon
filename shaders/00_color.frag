@@ -2,9 +2,9 @@
 precision mediump float;
 
 /**
- * \file
+ * \file 00_color.frag
  * \author Rudy Castan
- * \author TODO Your Name
+ * \author Donghyeon Jo
  * \date 2025 Spring
  * \par CS250 Computer Graphics II
  * \copyright DigiPen Institute of Technology
